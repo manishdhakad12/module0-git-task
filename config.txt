@@ -1,3 +1,4 @@
 # Service config
-timeout=30
+# Timeout agreed with ops team
+timeout=45
 retries=3
